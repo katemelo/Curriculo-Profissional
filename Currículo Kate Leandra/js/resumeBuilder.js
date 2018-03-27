@@ -68,7 +68,7 @@ var work = {
         "title": "Developer",
         "location": "Belo Horizonte/MG",
         "Dates": "Junho/2017 - Atual",
-        "description": "Desenvolvimento Web"
+        "description": "Experiência na utilização da ferramenta OTRS Help Desk, nosso produto H2O que é um sistema feito para melhorar e facilitar o atendimento ao cliente. Realizamos acompanhamento na implantação do sistema OTRS customizando front-end e usabilidade. Atuo com UX, aplicando análise heurística, teste de solução de usabilidade, acompanhamento de métricas de usabilidade, aplicação de técnicas para melhorias para a produtos(app) através de análises e testes de usabilidade, visando atender às necessidades do negócio e melhorar a experiência dos usuários. Realização de follow-up com os clientes, homologação: realizar testes de processo, garantir que todos os requisitos estão desenvolvidos e testados. Realizar o deploy no ambiente de homologação, subir o deploy para as lojas e para os sites em produção."
     }, {
         "employer": "Analista Financeiro",
         "title": "Administradora 5 Estrelas Special Service",
