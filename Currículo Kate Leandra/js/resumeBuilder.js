@@ -68,32 +68,7 @@ var work = {
         "title": "Developer",
         "location": "Belo Horizonte/MG",
         "Dates": "Junho/2017 - Atual",
-        "description": "Experiência na utilização da ferramenta OTRS Help Desk, nosso produto H2O que é um sistema feito para melhorar e facilitar o atendimento ao cliente. Realizamos acompanhamento na implantação do sistema OTRS customizando front-end e usabilidade. Atuo com UX, aplicando análise heurística, teste de solução de usabilidade, acompanhamento de métricas de usabilidade, aplicação de técnicas para melhorias para a produtos(app) através de análises e testes de usabilidade, visando atender às necessidades do negócio e melhorar a experiência dos usuários. Realização de follow-up com os clientes, homologação: realizar testes de processo, garantir que todos os requisitos estão desenvolvidos e testados. Realizar o deploy no ambiente de homologação, subir o deploy para as lojas e para os sites em produção."
-    }, {
-        "employer": "Analista Financeiro",
-        "title": "Administradora 5 Estrelas Special Service",
-        "location": "Belo Horizonte/MG",
-        "Dates": "06/2016 - 12/16",
-        "description": "Contas a pagar, faturamento, controle de gastos, compra de produtos de limpeza e uniformes, administração de maquinas e equipamentos de segurança, implatação de melhorias, treinamentos e liberação de notas fiscais."
-
-    }, {
-        "employer": "Innova Property Management",
-        "title": "Auxiliar Operacional",
-        "location": "Contagem/MG",
-        "Dates": "10/2014 - 11/2015",
-        "description": "Administração de condomínio logís co; elaboração de relatórios, planilhas financeira e operacional. Liberação de notas fiscais; fluxo de caixa; análise de custos; cotação de compras; Implantação e auditoria de processos de qualidade com definições de ações e prazos. Supervisão das equipes e ro nas operacionais de manutenção, revitalização, limpeza, paisagismo, segurança, entre outros."
-    }, {
-        "employer": "Foco Distribuidora",
-        "title": "Auxiliar Financeiro",
-        "location": "Belo Horizonte/MG",
-        "Dates": "07/2013 - 09/2014",
-        "description": "Contas a pagar e receber; acertos e liberação de pagamentos em geral; fluxo de caixa; controle de ponto; cobrança de clientes."
-    }, {
-        "employer": "Companhia Energética de Minas Gerais – CEMIG",
-        "title": "Auxiliar Riscos Corporativos.",
-        "location": "Belo Horizonte/MG",
-        "Dates": "02/2012 - 11/2012",
-        "description": "Revisões periódicas da matriz de riscos e controles estratégicos. Elaboração de documentos de compliance: Relatório de Administração, Relatório Anual, Relatório de Sustentabilidade, Formulário 20F e relatórios gerenciais para subsídio ao Comitê de Monitoramento de Riscos Corporativos."
+        "description": "A Henkō TI é uma empresa focada no desenvolvimento de soluções de inovação e serviços voltados para a gestão estratégica de equipes/empresas que atuam com Tecnologia da Informação. Experiência na utilização da ferramenta OTRS Help Desk, nosso produto H2O que é um sistema feito para melhorar e facilitar o atendimento ao cliente. Realizamos acompanhamento na implantação do sistema OTRS customizando front-end e usabilidade. Atuo com UX, aplicando análise heurística, teste de solução de usabilidade, acompanhamento de métricas de usabilidade, aplicação de técnicas propondo melhorias para produtos(app) através de análises e testes de usabilidade, visando atender às necessidades do negócio e melhorar a experiência dos usuários. Realização de follow-up com os clientes, homologação: realizar testes de processo, garantir que todos os requisitos estão desenvolvidos e testados. Realizar o deploy no ambiente de homologação, subir o deploy para as lojas e para os sites em produção."
     }]
 };
 
